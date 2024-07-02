@@ -1,0 +1,3 @@
+/home/rahul/test/build/CMakeFiles/DisplayImage.dir
+/home/rahul/test/build/CMakeFiles/edit_cache.dir
+/home/rahul/test/build/CMakeFiles/rebuild_cache.dir
